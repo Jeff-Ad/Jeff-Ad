@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jeff-Ad
-- 👀 I’m interested in web3
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on any project that has to do with react / eb3
+- 👀 I’m interested in Web3
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on any project that has to do with React / Web3
 - 📫 How to reach me https://twitter.com/techi_jeff
 
 <!---
