@@ -4,6 +4,7 @@
 #### Software Developer
 <hr/>
 A Passionate Software developer with a B.TECH in Info Tech who Designs, Builds develops responsive web app.
+
 Skills:  REACT / JS / HTML / CSS
 <hr/>
 - 💬 Ask me about Info tech, react, web 3 frontend 
