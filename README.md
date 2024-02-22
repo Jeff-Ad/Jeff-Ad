@@ -2,7 +2,7 @@
 
 <img  alt="Coding" align="right" height="200" src="https://blog.zoho.com/wp-content/uploads/2019/05/cliq-projects-integration-blog.gif">
 
-### Hi there 👋, I'm Jeffrey Adakole<br><br>A Passionate Software developer with a B.TECH in Info Tech who Designs, Builds develops responsive web app.<br><br> 📫 How to reach me: odehkole@gmail.com <br> ⚡ Fun fact: I make music when I'm not coding 😎
+### Hi there 👋, I'm Jeffrey Adakole<br><br>A B.TECH Information Technology graduate and passionate web app developer. Let's turn your ideas into responsive and user-friendly experiences!.<br><br> 📫 How to reach me: odehkole@gmail.com <br> ⚡ Fun fact: I make music when I'm not coding 😎
 
 
 ## 🌐 Socials:
